@@ -34,3 +34,28 @@ Trata-se de um player de música em console, focado na aplicação de estruturas
    ```bash
    git clone https://github.com/camilytec/Player-Musical.git
     ```
+2. Abra a pasta no Visual Studio ou VS Code com .NET instalado.
+3. Compile e execute o projeto (Program.cs).
+4. Siga o menu interativo no console.
+
+## 📂 Estrutura do Projeto
+
+```
+PlayerMusical/
+│
+├─ Classes/ # Classes do player: Música, Playlist, FilaReproducao, HistoricoReproducao, ArvoreGenerosMusicais etc.
+├─ Program.cs # Menu principal e lógica de interação
+├─ musicas.csv # Arquivo opcional para carregar músicas automaticamente
+└─ log.txt # Histórico de ações
+```
+
+## 💡 Observações
+
+- Funciona totalmente via console.  
+- A chave das músicas é formada por **Título - Artista**.  
+- Estruturas de dados aplicadas para controle de catálogo, fila, histórico e organização por gênero.
+
+## 👩‍💻 Autores
+
+- Camily Barbosa  
+- Gabriel
