@@ -32,7 +32,7 @@ Trata-se de um player de música em console, focado na aplicação de estruturas
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/camilytec/Player-Musical.git
+   git clone https://github.com/camily-tec/Player-Musical.git
     ```
 2. Abra a pasta no Visual Studio ou VS Code com .NET instalado.
 3. Compile e execute o projeto (Program.cs).
