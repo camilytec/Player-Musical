@@ -25,7 +25,8 @@ Trata-se de um player de música em console, focado na aplicação de estruturas
 ## 📂 Como rodar
 
 1. Clone o repositório:
-
+   
+```bash
 git clone https://github.com/camilytec/Player-Musical.git
 Abra a pasta no Visual Studio ou VS Code com .NET
 Compile e execute o projeto (Program.cs)
