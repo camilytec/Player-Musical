@@ -1,6 +1,6 @@
 # 🎵 Player Musical (C#)
 
-Projeto desenvolvido como atividade da disciplina de **Algoritmos e Estruturas de Dados**.  
+Projeto desenvolvido como trabalho final da disciplina de **Algoritmos e Estruturas de Dados**.  
 Trata-se de um player de música em console, focado na aplicação de estruturas como listas duplamente encadeadas, filas, pilhas e árvores binárias de gênero.
 
 ## 🚀 Funcionalidades
