@@ -23,22 +23,23 @@ Trata-se de um player de música em console, focado na aplicação de estruturas
   - Árvore binária (`ArvoreGenerosMusicais`)  
 
 ## 📂 Como rodar
+Clone o repositório:
 
-1. Clone o repositório:
-   
-```bash
 git clone https://github.com/camilytec/Player-Musical.git
+
 Abra a pasta no Visual Studio ou VS Code com .NET
 Compile e execute o projeto (Program.cs)
-📌 Estrutura do projeto
-PlayerMusical/Classes – Todas as classes do player (Música, Playlist, FilaReproducao, HistoricoReproducao, ArvoreGenerosMusicais etc.)
-Program.cs – Menu principal e lógica de interação com o usuário
-musicas.csv – Arquivo opcional com músicas para carregar automaticamente
+Siga o menu interativo no console
+🗂️ Estrutura do projeto
+PlayerMusical/Classes – Classes do player: Música, Playlist, FilaReproducao, HistoricoReproducao, ArvoreGenerosMusicais etc.
+Program.cs – Menu principal e lógica de interação
+musicas.csv – Arquivo opcional para carregar músicas automaticamente
 log.txt – Histórico de ações
 💡 Observações
 Funciona totalmente via console
 A chave das músicas é formada por Título - Artista
-Estruturas de dados aplicadas de forma prática para controle de catálogo, filas, histórico e organização por gênero
+Estruturas de dados aplicadas para controle de catálogo, fila, histórico e organização por gênero
+
 👩‍💻 Autores
 Camily Barbosa
 Gabriel
